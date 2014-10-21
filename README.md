@@ -1,4 +1,4 @@
-# Win2D
+## Win2D
 
 Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics 
 rendering with GPU acceleration. It is available to C# and C++ developers writing 
